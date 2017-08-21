@@ -4,10 +4,10 @@ Hands on introduction to using TensorFlow to design, develop, and deploy deep le
 Jay Urbain, PhD 
 
 ## Topics (ipynb):  
-- [TensorFlow Overview](TensorFlow-Tutorial/TensorFlow Overview.ipynb)   
-- [Optional: TensorFlow Tensors](TensorFlow-Tutorial/TensorFlow Tensors.ipynb)  
-- [TensorFlow Creating Model and Using TensorBoard](TensorFlow-Tutorial/TensorFlow Creating Model.ipynb)
-- [TensorFlow Using a Trained Model](TensorFlow-Tutorial/TensorFlow Using a Trained Model.ipynb)  
+- [TensorFlow Overview](TensorFlow-Tutorial/TensorFlow%20Overview.ipynb)   
+- [Optional: TensorFlow Tensors](TensorFlow-Tutorial/TensorFlow%20Tensors.ipynb)  
+- [TensorFlow Creating Model and Using TensorBoard](TensorFlow-Tutorial/TensorFlow%20Creating Model.ipynb)
+- [TensorFlow Using a Trained Model](TensorFlow-Tutorial/TensorFlow%20Using%20a%20Trained%20Model.ipynb)  
 
 Note: HTML files have been created for each notebook.
 
