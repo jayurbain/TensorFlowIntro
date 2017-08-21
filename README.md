@@ -22,3 +22,6 @@ By Aurélien Géron
 Udacity Deep Learning Foundation Nanodegree 
 - https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101 
 
+Building and Deploying Deep Learning Models with TensorFlow, AdamGeitgey
+
+
